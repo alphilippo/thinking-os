@@ -132,6 +132,14 @@ thinking-os/
 - **v1.2** : mémoire des frameworks récemment utilisés pour éviter la répétition
 - **v2.0** : combinaison explicite de frameworks (ex: `first-principles` + `inversion` pour démontage stratégique)
 
+## Skill complémentaire
+
+[**execution-os**](https://github.com/alphilippo/execution-os) — système d'exécution qui se compose avec thinking-os :
+- `thinking-os` répond à **QUOI** faire (décisions, arbitrages, diagnostics)
+- `execution-os` répond à **COMMENT** le faire réellement (sprint, deep work, rétro, accountability)
+
+Utilisez-les ensemble pour passer de l'intention à l'exécution.
+
 ## Licence
 
 Apache 2.0 — tu peux forker, adapter, republier. Si tu fais une fork utile, merci de partager le lien.
