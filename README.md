@@ -1,5 +1,9 @@
 # thinking-os
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue) ![License](https://img.shields.io/badge/license-Apache%202.0-green) ![Claude](https://img.shields.io/badge/Claude-Skill-purple)
+
+🌍 **Français** · **[English](README.en.md)**
+
 > Un routeur cognitif pour Claude : détecte le type de problème posé et applique le bon framework de pensée au lieu de balancer des généralités.
 
 ## Ce que ça fait
@@ -84,12 +88,21 @@ Packager le dossier en `.skill` et uploader via l'endpoint `/skills`. Voir la [d
 
 → La skill applique `10-10-10`, protège l'utilisateur contre la décision réflexe.
 
+## Skill complémentaire
+
+[**execution-os**](https://github.com/alphilippo/execution-os) — système d'exécution qui se compose avec thinking-os :
+- `thinking-os` répond à **QUOI** faire (décisions, arbitrages, diagnostics)
+- `execution-os` répond à **COMMENT** le faire réellement (sprint planning, deep work, rétro hebdo, accountability)
+
+Utilisez-les ensemble pour passer de l'intention à l'exécution.
+
 ## Structure
 
 ```
 thinking-os/
 ├── SKILL.md                    # Métadonnées + routeur cognitif
-├── README.md                   # Ce fichier
+├── README.md                   # Ce fichier (français)
+├── README.en.md                # Version anglaise
 ├── frameworks/                 # Un fichier par framework (chargement à la demande)
 │   ├── first-principles.md
 │   ├── second-order.md
@@ -131,14 +144,6 @@ thinking-os/
 - **v1.1** : ajout de la Feynman Technique (apprentissage), Minto Pyramid (communication), Systems Thinking
 - **v1.2** : mémoire des frameworks récemment utilisés pour éviter la répétition
 - **v2.0** : combinaison explicite de frameworks (ex: `first-principles` + `inversion` pour démontage stratégique)
-
-## Skill complémentaire
-
-[**execution-os**](https://github.com/alphilippo/execution-os) — système d'exécution qui se compose avec thinking-os :
-- `thinking-os` répond à **QUOI** faire (décisions, arbitrages, diagnostics)
-- `execution-os` répond à **COMMENT** le faire réellement (sprint, deep work, rétro, accountability)
-
-Utilisez-les ensemble pour passer de l'intention à l'exécution.
 
 ## Licence
 
