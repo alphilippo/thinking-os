@@ -90,13 +90,18 @@ Packager le dossier en `.skill` et uploader via l'endpoint `/skills`. Voir la [d
 
 ## Skills complémentaires (écosystème complet)
 
-- ⚙️ [**execution-os**](https://github.com/alphilippo/execution-os) — système d'exécution avec sprint planning, deep work, rétro hebdo, accountability
-- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — système d'apprentissage avec 5 modules (plans, concept explainer, study sessions, synthesis, math rebuild)
+- 🧠 [**thinking-os**](https://github.com/alphilippo/thinking-os) — routeur cognitif
+- ⚙️ [**execution-os**](https://github.com/alphilippo/execution-os) — système d'exécution
+- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — système d'apprentissage
+- ⚔️ [**strategy-intel**](https://github.com/alphilippo/strategy-intel) — analyse stratégique
+- 🧭 [**alignment-os**](https://github.com/alphilippo/alignment-os) — alignement personnel
 
-Les 3 se composent :
-- `thinking-os` répond à **QUOI** faire (décisions, arbitrages, diagnostics)
-- `execution-os` répond à **COMMENT** le faire (sprints, deep work, rituels)
-- `learning-os` répond à **APPRENDRE** (plans, concepts, sessions, synthèses)
+Les 5 répondent à des questions différentes :
+- `thinking-os` — **QUOI** faire (cadre de pensée)
+- `execution-os` — **COMMENT** le faire (cadence)
+- `learning-os` — **APPRENDRE** à le faire (montée en compétence)
+- `strategy-intel` — **OÙ & CONTRE QUI** le faire (positionnement)
+- `alignment-os` — **POURQUOI** le faire (cohérence vie/valeurs)
 
 Utilisez-les ensemble pour passer de l'intention à l'exécution.
 
