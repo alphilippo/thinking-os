@@ -90,13 +90,18 @@ Package the folder as a `.skill` file and upload via the `/skills` endpoint. See
 
 ## Complementary skills (full ecosystem)
 
-- ⚙️ [**execution-os**](https://github.com/alphilippo/execution-os) — execution system with sprint planning, deep work, weekly ritual, accountability
-- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — learning system with 5 modules (plans, concept explainer, study sessions, synthesis, math rebuild)
+- 🧠 [**thinking-os**](https://github.com/alphilippo/thinking-os) — cognitive router
+- ⚙️ [**execution-os**](https://github.com/alphilippo/execution-os) — execution system
+- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — learning system
+- ⚔️ [**strategy-intel**](https://github.com/alphilippo/strategy-intel) — strategic analysis
+- 🧭 [**alignment-os**](https://github.com/alphilippo/alignment-os) — personal alignment
 
-The 3 compose:
-- `thinking-os` answers **WHAT** to do (decisions, trade-offs, diagnostics)
-- `execution-os` answers **HOW** to do it (sprints, deep work, rituals)
-- `learning-os` answers **HOW TO LEARN** it (plans, concepts, sessions, synthesis)
+The 5 answer different questions:
+- `thinking-os` — **WHAT** to do (thinking frame)
+- `execution-os` — **HOW** to do it (cadence)
+- `learning-os` — **HOW TO LEARN** it (skill building)
+- `strategy-intel` — **WHERE & AGAINST WHOM** to do it (positioning)
+- `alignment-os` — **WHY** do it (life/values coherence)
 
 Use them together to go from intent to execution.
 
