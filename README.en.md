@@ -88,11 +88,15 @@ Package the folder as a `.skill` file and upload via the `/skills` endpoint. See
 
 → The skill applies `10-10-10`, protecting the user from the reflex decision.
 
-## Complementary skill
+## Complementary skills (full ecosystem)
 
-[**execution-os**](https://github.com/alphilippo/execution-os) — execution system that composes with thinking-os:
+- ⚙️ [**execution-os**](https://github.com/alphilippo/execution-os) — execution system with sprint planning, deep work, weekly ritual, accountability
+- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — learning system with 5 modules (plans, concept explainer, study sessions, synthesis, math rebuild)
+
+The 3 compose:
 - `thinking-os` answers **WHAT** to do (decisions, trade-offs, diagnostics)
-- `execution-os` answers **HOW** to actually do it (sprint planning, deep work, weekly ritual, accountability)
+- `execution-os` answers **HOW** to do it (sprints, deep work, rituals)
+- `learning-os` answers **HOW TO LEARN** it (plans, concepts, sessions, synthesis)
 
 Use them together to go from intent to execution.
 
