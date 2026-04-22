@@ -88,11 +88,15 @@ Packager le dossier en `.skill` et uploader via l'endpoint `/skills`. Voir la [d
 
 → La skill applique `10-10-10`, protège l'utilisateur contre la décision réflexe.
 
-## Skill complémentaire
+## Skills complémentaires (écosystème complet)
 
-[**execution-os**](https://github.com/alphilippo/execution-os) — système d'exécution qui se compose avec thinking-os :
+- ⚙️ [**execution-os**](https://github.com/alphilippo/execution-os) — système d'exécution avec sprint planning, deep work, rétro hebdo, accountability
+- 📚 [**learning-os**](https://github.com/alphilippo/learning-os) — système d'apprentissage avec 5 modules (plans, concept explainer, study sessions, synthesis, math rebuild)
+
+Les 3 se composent :
 - `thinking-os` répond à **QUOI** faire (décisions, arbitrages, diagnostics)
-- `execution-os` répond à **COMMENT** le faire réellement (sprint planning, deep work, rétro hebdo, accountability)
+- `execution-os` répond à **COMMENT** le faire (sprints, deep work, rituels)
+- `learning-os` répond à **APPRENDRE** (plans, concepts, sessions, synthèses)
 
 Utilisez-les ensemble pour passer de l'intention à l'exécution.
 
